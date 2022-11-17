@@ -1,0 +1,5 @@
+{
+  "prettier.resolveGlobalModules": false,
+  "prettier.requireConfig": false,
+  "editor.defaultFormatter": null
+}
